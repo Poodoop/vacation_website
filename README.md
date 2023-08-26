@@ -1,9 +1,9 @@
 # Tugas Minggu 2 Rakamin Academy
 
-Nama: Elbert Dicky Aristyo
-Kelas: FSWD B
-Nama Website: Voila Vacations
-Link Hosting Website: https://poodoop.github.io/vacation_website/
+* Nama: Elbert Dicky Aristyo
+* Kelas: FSWD B
+* Nama Website: Voila Vacations
+* Link Hosting Website: https://poodoop.github.io/vacation_website/
 
 ## Website Design
 Desain website ini akan dibagi menjadi 3 bagian:
