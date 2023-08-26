@@ -1,0 +1,15 @@
+{
+  "name": "vacation_website",
+  "version": "1.0.0",
+  "description": "Nama: Elbert Dicky Aristyo\r Kelas: FSWD B",
+  "main": "index.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "tailwindcss": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
