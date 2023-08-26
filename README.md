@@ -37,7 +37,8 @@ Digunakan juga FontAwesome, yang mengandung logo-logo publik.
 
 Penambahan background dilakukan dengan menambah div dengan class bg-[url('./img/charlesdeluvio-nuNkbkQQf9U-unsplash.jpg')] dan menampung konten html didalamnya.
 
-Jenis-jenis class yang paling penting untuk pengimplementasian mobile adalah sm:, md:, Lg:, dan semacamnya, dimana kita dapat merubah margin dan padding pada sebuah elemen jika kelebaran (width) layar mencapai kekecilan/kebesaran tertentu, sehingga website bisa responsive mengubah jarak antar konten sesuai kebutuhan. misalnya class lg:mb-16 akan mengubah margin bawah menjadi 16 (64px) jika width layar 1024px.
+Jenis-jenis class yang paling penting untuk pengimplementasian mobile adalah sm:, md:, Lg:, dan semacamnya, dimana kita dapat merubah margin dan padding pada sebuah elemen jika kelebaran (width) layar mencapai kekecilan/kebesaran tertentu, sehingga website bisa responsive mengubah jarak antar konten sesuai kebutuhan. misalnya class lg:mb-16 akan mengubah margin bawah menjadi 16 (64px) jika width layar diatas 1024px.
+
 <img width="958" alt="image" src="https://github.com/Poodoop/vacation_website/assets/55837575/dd2d36d7-2752-4ca1-9909-46a5fed7c003">
 
 
